@@ -46,7 +46,7 @@ This is an e-commerce website built with React.js. It allows users to browse pro
 ![Homepage](./src/screenShot/ecomm-image.png)
 ![Homepage](./src/screenShot/ecomm-image3.png)
 ![Phone](./src/screenShot/iPhone-12-iOS-14-localhost%20-1.png.png)
-![Phone](./src/screenShot/iPhone-12-iOS-14-localhost.png)
+![Phone](src\screenShot\iPhone-12-iOS-14-localhost-1.png)
 
 
 ## Acknowledgements
